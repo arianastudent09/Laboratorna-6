@@ -1,0 +1,34 @@
+﻿<Window x:Class="OOP_LB6.Dialog_boxes.CreateWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OOP_LB6.Dialog_boxes"
+        mc:Ignorable="d"
+        Title="CreateWindow" SizeToContent="WidthAndHeight" ResizeMode="CanMinimize" Background="AliceBlue" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Text="Введите путь, по которому нужно создать документ:"
+                   HorizontalAlignment="Center"
+                   TextWrapping="Wrap"/>
+        <TextBlock Grid.Row="1" Text="Пример указания пути: C:\User\Documents\" Foreground="Red"/>
+        <TextBox Grid.Row="2" x:Name="DocPath"/>
+        <UniformGrid Grid.Row="3" Columns="2">
+            <TextBlock Text="Имя документа:"/>
+            <TextBox x:Name="DocName"/>
+        </UniformGrid>
+        <StackPanel Grid.Row="4">
+            <TextBlock Text="Тип документа:" Margin="0 0 0 5"/>
+            <RadioButton GroupName="DocType" Content=".dat" Margin="0 0 0 1" Checked="RadioButton_Checked"/>
+            <RadioButton GroupName="DocType" Content=".txt" Margin="0 0 0 1" Checked="RadioButton_Checked"/>
+        </StackPanel>
+        <Button Grid.Row="5" x:Name="Create" Content="Создать" Click="Create_Click"  Cursor="Hand"/>
+    </Grid>
+</Window>

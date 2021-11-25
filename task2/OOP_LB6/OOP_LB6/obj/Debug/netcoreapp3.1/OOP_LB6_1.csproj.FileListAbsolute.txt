@@ -1,0 +1,69 @@
+D:\C#\LB6\OOP_LB6\bin\Debug\netcoreapp3.1\OOP_LB6_1.exe
+D:\C#\LB6\OOP_LB6\bin\Debug\netcoreapp3.1\OOP_LB6_1.deps.json
+D:\C#\LB6\OOP_LB6\bin\Debug\netcoreapp3.1\OOP_LB6_1.runtimeconfig.json
+D:\C#\LB6\OOP_LB6\bin\Debug\netcoreapp3.1\OOP_LB6_1.runtimeconfig.dev.json
+D:\C#\LB6\OOP_LB6\bin\Debug\netcoreapp3.1\OOP_LB6_1.dll
+D:\C#\LB6\OOP_LB6\bin\Debug\netcoreapp3.1\OOP_LB6_1.pdb
+D:\C#\LB6\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1.csprojAssemblyReference.cache
+D:\C#\LB6\OOP_LB6\obj\Debug\netcoreapp3.1\Dialog boxes\CreateWindow.g.cs
+D:\C#\LB6\OOP_LB6\obj\Debug\netcoreapp3.1\Dialog boxes\OpenWindow.g.cs
+D:\C#\LB6\OOP_LB6\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\C#\LB6\OOP_LB6\obj\Debug\netcoreapp3.1\App.g.cs
+D:\C#\LB6\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1_MarkupCompile.cache
+D:\C#\LB6\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1_MarkupCompile.lref
+D:\C#\LB6\OOP_LB6\obj\Debug\netcoreapp3.1\Dialog boxes\CreateWindow.baml
+D:\C#\LB6\OOP_LB6\obj\Debug\netcoreapp3.1\Dialog boxes\OpenWindow.baml
+D:\C#\LB6\OOP_LB6\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\C#\LB6\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1.g.resources
+D:\C#\LB6\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1.csproj.CoreCompileInputs.cache
+D:\C#\LB6\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1.AssemblyInfoInputs.cache
+D:\C#\LB6\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1.AssemblyInfo.cs
+D:\C#\LB6\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1.dll
+D:\C#\LB6\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1.pdb
+D:\C#\LB6\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1.genruntimeconfig.cache
+D:\C#\OOP_LB6\bin\Debug\netcoreapp3.1\OOP_LB6_1.exe
+D:\C#\OOP_LB6\bin\Debug\netcoreapp3.1\OOP_LB6_1.deps.json
+D:\C#\OOP_LB6\bin\Debug\netcoreapp3.1\OOP_LB6_1.runtimeconfig.json
+D:\C#\OOP_LB6\bin\Debug\netcoreapp3.1\OOP_LB6_1.runtimeconfig.dev.json
+D:\C#\OOP_LB6\bin\Debug\netcoreapp3.1\OOP_LB6_1.dll
+D:\C#\OOP_LB6\bin\Debug\netcoreapp3.1\OOP_LB6_1.pdb
+D:\C#\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1.csprojAssemblyReference.cache
+D:\C#\OOP_LB6\obj\Debug\netcoreapp3.1\Dialog boxes\CreateWindow.g.cs
+D:\C#\OOP_LB6\obj\Debug\netcoreapp3.1\Dialog boxes\OpenWindow.g.cs
+D:\C#\OOP_LB6\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\C#\OOP_LB6\obj\Debug\netcoreapp3.1\App.g.cs
+D:\C#\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1_MarkupCompile.cache
+D:\C#\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1_MarkupCompile.lref
+D:\C#\OOP_LB6\obj\Debug\netcoreapp3.1\Dialog boxes\CreateWindow.baml
+D:\C#\OOP_LB6\obj\Debug\netcoreapp3.1\Dialog boxes\OpenWindow.baml
+D:\C#\OOP_LB6\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\C#\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1.g.resources
+D:\C#\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1.AssemblyInfoInputs.cache
+D:\C#\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1.AssemblyInfo.cs
+D:\C#\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1.csproj.CoreCompileInputs.cache
+D:\C#\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1.dll
+D:\C#\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1.pdb
+D:\C#\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1.genruntimeconfig.cache
+C:\Users\Алло\Desktop\OOP_LB6\OOP_LB6\bin\Debug\netcoreapp3.1\OOP_LB6_1.exe
+C:\Users\Алло\Desktop\OOP_LB6\OOP_LB6\bin\Debug\netcoreapp3.1\OOP_LB6_1.deps.json
+C:\Users\Алло\Desktop\OOP_LB6\OOP_LB6\bin\Debug\netcoreapp3.1\OOP_LB6_1.runtimeconfig.json
+C:\Users\Алло\Desktop\OOP_LB6\OOP_LB6\bin\Debug\netcoreapp3.1\OOP_LB6_1.runtimeconfig.dev.json
+C:\Users\Алло\Desktop\OOP_LB6\OOP_LB6\bin\Debug\netcoreapp3.1\OOP_LB6_1.dll
+C:\Users\Алло\Desktop\OOP_LB6\OOP_LB6\bin\Debug\netcoreapp3.1\OOP_LB6_1.pdb
+C:\Users\Алло\Desktop\OOP_LB6\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1.csprojAssemblyReference.cache
+C:\Users\Алло\Desktop\OOP_LB6\OOP_LB6\obj\Debug\netcoreapp3.1\Dialog boxes\CreateWindow.g.cs
+C:\Users\Алло\Desktop\OOP_LB6\OOP_LB6\obj\Debug\netcoreapp3.1\Dialog boxes\OpenWindow.g.cs
+C:\Users\Алло\Desktop\OOP_LB6\OOP_LB6\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Алло\Desktop\OOP_LB6\OOP_LB6\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Алло\Desktop\OOP_LB6\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1_MarkupCompile.cache
+C:\Users\Алло\Desktop\OOP_LB6\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1_MarkupCompile.lref
+C:\Users\Алло\Desktop\OOP_LB6\OOP_LB6\obj\Debug\netcoreapp3.1\Dialog boxes\CreateWindow.baml
+C:\Users\Алло\Desktop\OOP_LB6\OOP_LB6\obj\Debug\netcoreapp3.1\Dialog boxes\OpenWindow.baml
+C:\Users\Алло\Desktop\OOP_LB6\OOP_LB6\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Алло\Desktop\OOP_LB6\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1.g.resources
+C:\Users\Алло\Desktop\OOP_LB6\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1.AssemblyInfoInputs.cache
+C:\Users\Алло\Desktop\OOP_LB6\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1.AssemblyInfo.cs
+C:\Users\Алло\Desktop\OOP_LB6\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1.csproj.CoreCompileInputs.cache
+C:\Users\Алло\Desktop\OOP_LB6\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1.dll
+C:\Users\Алло\Desktop\OOP_LB6\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1.pdb
+C:\Users\Алло\Desktop\OOP_LB6\OOP_LB6\obj\Debug\netcoreapp3.1\OOP_LB6_1.genruntimeconfig.cache
